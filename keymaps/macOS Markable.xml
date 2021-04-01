@@ -1,0 +1,17 @@
+<keymap version="1" name="macOS Markable" parent="Mac OS X 10.5+">
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+</keymap>
