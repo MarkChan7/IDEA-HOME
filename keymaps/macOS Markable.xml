@@ -1,12 +1,6 @@
 <keymap version="1" name="macOS Markable" parent="Mac OS X 10.5+">
-  <action id="Android.SyncProject">
-    <keyboard-shortcut first-keystroke="alt g" />
-  </action>
   <action id="Compare.SameVersion">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
-  <action id="ConsoleView.ClearAll">
-    <keyboard-shortcut first-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="alt minus" />
@@ -15,17 +9,10 @@
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
   <action id="EditorResetFontSize">
-    <keyboard-shortcut first-keystroke="alt o" />
+    <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="Git.CompareWithBranch">
-    <keyboard-shortcut first-keystroke="alt b" />
-  </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
-  <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
