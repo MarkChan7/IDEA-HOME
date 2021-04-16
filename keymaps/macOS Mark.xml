@@ -19,6 +19,9 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="android.deploy.ApplyChanges">
