@@ -1,0 +1,11 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="2021-05-07 10:36:18.116 635-1123/? W//system/bin/netd: A binder object at 0x7705ead080 is being transacted on, however, this object is in the same process as its proxy. Transacting with this binder is expensive compared to just calling the corresponding functionality in the same process." />
+        <option value="2021-05-07 10:36:31.055 1558-2322/? I/HwWifiProServiceProxy: ctrlHwWifiNetwork pkgName: WIFIPRO_SERVICE interfaceId: 8" />
+        <option value="2021-05-07 10:36:51.083 1558-2396/? I/HuaweiWifiWatchdogStateMachine: high data flow scenario: 0 --&gt; 0 rx bytes =0KB" />
+      </list>
+    </option>
+  </component>
+</application>
