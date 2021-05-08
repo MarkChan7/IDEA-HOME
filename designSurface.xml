@@ -13,7 +13,8 @@
         <entry key="QsbkLive/res/layout/view_wish_anchor_wish_progress.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/view_wish_gift_view.xml" value="0.75" />
         <entry key="QsbkLive/res/layout/view_wish_item_layout.xml" value="0.29270833333333335" />
-        <entry key="QsbkLive/res/layout/view_wish_progress_item_layout.xml" value="0.29270833333333335" />
+        <entry key="QsbkLive/res/layout/view_wish_label_layout.xml" value="0.29270833333333335" />
+        <entry key="QsbkLive/res/layout/view_wish_progress_item_layout.xml" value="0.698961937716263" />
         <entry key="QsbkLive/res/layout/view_wish_rank_avatar.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/view_wish_select_gift_amount_layout.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/wish_gift_grid_item.xml" value="0.29270833333333335" />
