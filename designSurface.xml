@@ -17,10 +17,28 @@
         <entry key="QsbkLive/res/layout/guide_send_gift.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/item_ovo.xml" value="0.18297101449275363" />
         <entry key="QsbkLive/res/layout/item_ovo_entry.xml" value="0.1" />
-        <entry key="QsbkLive/res/layout/live_base_view.xml" value="0.1" />
+        <entry key="QsbkLive/res/layout/live_base_view.xml" value="0.20606884057971014" />
+        <entry key="QsbkLive/res/layout/live_chat_label_item.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_family_rank_item.xml" value="0.26927083333333335" />
         <entry key="QsbkLive/res/layout/live_free_gift_view.xml" value="0.29270833333333335" />
+        <entry key="QsbkLive/res/layout/live_game_mining_item.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_game_options.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_gift_animation_layout.xml" value="0.26927083333333335" />
+        <entry key="QsbkLive/res/layout/live_gift_box.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_gift_box_charge.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_gift_box_item.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_gift_grid_item.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_gift_send_count_all.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_gift_send_count_custom.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_gift_send_count_item.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_gift_svga_layout.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_giftrank_item.xml" value="0.26927083333333335" />
+        <entry key="QsbkLive/res/layout/live_guide_message_item.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_message_item.xml" value="0.192481884057971" />
         <entry key="QsbkLive/res/layout/live_pk_layout.xml" value="0.296875" />
+        <entry key="QsbkLive/res/layout/live_send_continue_item.xml" value="0.26927083333333335" />
         <entry key="QsbkLive/res/layout/live_user_info_view.xml" value="0.20606884057971014" />
+        <entry key="QsbkLive/res/layout/live_widget_view.xml" value="0.26927083333333335" />
         <entry key="QsbkLive/res/layout/view_push_decorate.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/view_wish_anchor_make_wish.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/view_wish_anchor_wish_progress.xml" value="0.29270833333333335" />
