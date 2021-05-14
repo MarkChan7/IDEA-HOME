@@ -34,6 +34,7 @@
         <entry key="QsbkLive/res/layout/live_gift_svga_layout.xml" value="0.192481884057971" />
         <entry key="QsbkLive/res/layout/live_giftrank_item.xml" value="0.26927083333333335" />
         <entry key="QsbkLive/res/layout/live_guide_message_item.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_large_gift_user_item.xml" value="0.5" />
         <entry key="QsbkLive/res/layout/live_message_item.xml" value="0.192481884057971" />
         <entry key="QsbkLive/res/layout/live_pk_layout.xml" value="0.296875" />
         <entry key="QsbkLive/res/layout/live_send_continue_item.xml" value="0.26927083333333335" />
