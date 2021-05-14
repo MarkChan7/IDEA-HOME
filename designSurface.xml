@@ -19,6 +19,8 @@
         <entry key="QsbkLive/res/layout/item_ovo_entry.xml" value="0.1" />
         <entry key="QsbkLive/res/layout/live_base_view.xml" value="0.1" />
         <entry key="QsbkLive/res/layout/live_free_gift_view.xml" value="0.29270833333333335" />
+        <entry key="QsbkLive/res/layout/live_pk_layout.xml" value="0.296875" />
+        <entry key="QsbkLive/res/layout/live_user_info_view.xml" value="0.20606884057971014" />
         <entry key="QsbkLive/res/layout/view_push_decorate.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/view_wish_anchor_make_wish.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/view_wish_anchor_wish_progress.xml" value="0.29270833333333335" />
