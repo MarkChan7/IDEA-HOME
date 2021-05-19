@@ -62,6 +62,7 @@
         <entry key="himawari/src/main/res/layout/fragment_material_category.xml" value="0.1" />
         <entry key="himawari/src/main/res/layout/item_downloaded_material.xml" value="0.1" />
         <entry key="himawari/src/main/res/layout/item_material.xml" value="0.1" />
+        <entry key="himawari/src/main/res/layout/item_pager_background_color.xml" value="0.182518115942029" />
       </map>
     </option>
   </component>
