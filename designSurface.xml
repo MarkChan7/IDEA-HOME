@@ -56,6 +56,7 @@
         <entry key="Remix/res/layout/activity_main.xml" value="0.13095238095238096" />
         <entry key="Remix/res/layout/fragment_ovo_list_tab.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.20652173913043478" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_plant_detail.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_plant_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_view_pager.xml" value="0.1" />
@@ -69,6 +70,7 @@
         <entry key="himawari/src/main/res/layout/item_downloaded_material.xml" value="0.1" />
         <entry key="himawari/src/main/res/layout/item_list_text_typeface.xml" value="0.45" />
         <entry key="himawari/src/main/res/layout/item_material.xml" value="0.13095238095238096" />
+        <entry key="himawari/src/main/res/layout/item_material_db.xml" value="0.20425724637681159" />
         <entry key="himawari/src/main/res/layout/item_pager_background_color.xml" value="0.182518115942029" />
       </map>
     </option>
