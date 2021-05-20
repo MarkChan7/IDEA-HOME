@@ -66,7 +66,7 @@
         <entry key="app/src/main/res/layout/list_item_photo.xml" value="0.2758152173913043" />
         <entry key="himawari/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="himawari/src/main/res/layout/activity_material_category.xml" value="0.20425724637681159" />
-        <entry key="himawari/src/main/res/layout/dialog_random_template.xml" value="0.13095238095238096" />
+        <entry key="himawari/src/main/res/layout/dialog_random_template.xml" value="0.1" />
         <entry key="himawari/src/main/res/layout/fragment_material_category.xml" value="0.1" />
         <entry key="himawari/src/main/res/layout/fragment_material_list.xml" value="0.1" />
         <entry key="himawari/src/main/res/layout/item_downloaded_material.xml" value="0.1" />
