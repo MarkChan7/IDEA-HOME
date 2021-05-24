@@ -64,6 +64,7 @@
         <entry key="app/src/main/res/layout/fragment_view_pager.xml" value="0.1" />
         <entry key="app/src/main/res/layout/list_item_garden_planting.xml" value="0.25407608695652173" />
         <entry key="app/src/main/res/layout/list_item_photo.xml" value="0.2758152173913043" />
+        <entry key="app/src/main/res/layout/list_item_plant.xml" value="0.1" />
         <entry key="himawari/src/main/res/drawable/bg_placeholder.xml" value="0.378125" />
         <entry key="himawari/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="himawari/src/main/res/layout/activity_material_category.xml" value="0.20425724637681159" />
