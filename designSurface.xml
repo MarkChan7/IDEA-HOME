@@ -16,6 +16,7 @@
         <entry key="QsbkLive/res/layout/guide_get_gift.xml" value="0.19157608695652173" />
         <entry key="QsbkLive/res/layout/guide_send_gift.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/item_list_ovo_show_video.xml" value="0.20606884057971014" />
+        <entry key="QsbkLive/res/layout/item_newest_live.xml" value="0.1" />
         <entry key="QsbkLive/res/layout/item_ovo.xml" value="0.18297101449275363" />
         <entry key="QsbkLive/res/layout/item_ovo_entry.xml" value="0.1" />
         <entry key="QsbkLive/res/layout/layout_auto_video_player_view.xml" value="0.1" />
@@ -59,6 +60,7 @@
         <entry key="Remix/res/layout/activity_login.xml" value="0.14356884057971014" />
         <entry key="Remix/res/layout/activity_main.xml" value="0.13095238095238096" />
         <entry key="Remix/res/layout/fragment_ovo_list_tab.xml" value="0.1" />
+        <entry key="Remix/res/layout/item_newest_live_qz.xml" value="0.13177083333333334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.20652173913043478" />
         <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_plant_detail.xml" value="0.1" />
