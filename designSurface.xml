@@ -63,14 +63,16 @@
         <entry key="Remix/res/layout/activity_main_verify.xml" value="0.29270833333333335" />
         <entry key="Remix/res/layout/fragment_ovo_list_tab.xml" value="0.1" />
         <entry key="Remix/res/layout/item_newest_live_qz.xml" value="0.13177083333333334" />
+        <entry key="app/src/main/res/layout/activity_garden.xml" value="0.16530797101449277" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.20652173913043478" />
-        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.13095238095238096" />
+        <entry key="app/src/main/res/layout/fragment_garden.xml" value="0.16530797101449277" />
         <entry key="app/src/main/res/layout/fragment_plant_detail.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_plant_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_view_pager.xml" value="0.1" />
         <entry key="app/src/main/res/layout/list_item_garden_planting.xml" value="0.25407608695652173" />
         <entry key="app/src/main/res/layout/list_item_photo.xml" value="0.2758152173913043" />
-        <entry key="app/src/main/res/layout/list_item_plant.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/list_item_plant.xml" value="0.13095238095238096" />
         <entry key="app/src/main/res/layout/task_item.xml" value="0.25317028985507245" />
         <entry key="app/src/main/res/layout/taskdetail_frag.xml" value="0.1" />
         <entry key="app/src/main/res/layout/tasks_act.xml" value="0.1503623188405797" />
