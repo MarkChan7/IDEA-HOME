@@ -86,6 +86,7 @@
         <entry key="himawari/src/main/res/layout/dialog_random_template.xml" value="0.1453804347826087" />
         <entry key="himawari/src/main/res/layout/fragment_material_category.xml" value="0.1" />
         <entry key="himawari/src/main/res/layout/fragment_material_list.xml" value="0.1" />
+        <entry key="himawari/src/main/res/layout/fragment_material_list_db.xml" value="0.27807971014492755" />
         <entry key="himawari/src/main/res/layout/item_downloaded_material.xml" value="0.1" />
         <entry key="himawari/src/main/res/layout/item_list_text_typeface.xml" value="0.45" />
         <entry key="himawari/src/main/res/layout/item_material.xml" value="0.13095238095238096" />
