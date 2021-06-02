@@ -3,7 +3,7 @@
     <property name="created">2021-06-02T10:54:49</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.2.1.0</property>
-    <property name="modified">2021-06-02T11:32:07</property>
+    <property name="modified">2021-06-02T16:00:49</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
@@ -24,6 +24,12 @@
       <value>
         <option name="FOREGROUND" value="ffa245" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="589df6" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -195,6 +201,12 @@
         <option name="BACKGROUND" value="494a4f" />
       </value>
     </option>
+    <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="GO_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="7f8c99" />
@@ -300,6 +312,12 @@
         <option name="FOREGROUND" value="e0c5ff" />
       </value>
     </option>
+    <option name="HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="4d5565" />
@@ -323,7 +341,25 @@
         <option name="FOREGROUND" value="b37eee" />
       </value>
     </option>
+    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
