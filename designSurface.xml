@@ -92,6 +92,7 @@
         <entry key="himawari/src/main/res/layout/item_material.xml" value="0.13095238095238096" />
         <entry key="himawari/src/main/res/layout/item_material_db.xml" value="0.302536231884058" />
         <entry key="himawari/src/main/res/layout/item_pager_background_color.xml" value="0.182518115942029" />
+        <entry key="himawari/src/main/res/layout/loading_view.xml" value="0.2028985507246377" />
       </map>
     </option>
   </component>
