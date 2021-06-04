@@ -64,6 +64,8 @@
         <entry key="Remix/res/layout/activity_login.xml" value="0.14356884057971014" />
         <entry key="Remix/res/layout/activity_main.xml" value="0.13095238095238096" />
         <entry key="Remix/res/layout/activity_main_verify.xml" value="0.29270833333333335" />
+        <entry key="Remix/res/layout/fragment_home_grid_pager.xml" value="0.1" />
+        <entry key="Remix/res/layout/fragment_hot.xml" value="0.2604166666666667" />
         <entry key="Remix/res/layout/fragment_ovo_list_tab.xml" value="0.1" />
         <entry key="Remix/res/layout/item_newest_live_qz.xml" value="0.13177083333333334" />
         <entry key="app/src/main/res/layout/activity_garden.xml" value="0.16530797101449277" />
