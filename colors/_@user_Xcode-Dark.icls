@@ -1,9 +1,9 @@
 <scheme name="_@user_Xcode-Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-06-02T10:54:49</property>
-    <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">4.2.1.0</property>
-    <property name="modified">2021-06-02T16:00:49</property>
+    <property name="created">2021-06-10T11:07:14</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2021.1.2.0.0</property>
+    <property name="modified">2021-06-10T18:40:36</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
@@ -24,12 +24,6 @@
       <value>
         <option name="FOREGROUND" value="ffa245" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CTRL_CLICKABLE">
-      <value>
-        <option name="FOREGROUND" value="589df6" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -58,6 +52,7 @@
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ffa245" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -170,12 +165,14 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="ff7b82" />
+        <option name="FOREGROUND" value="ffbf67" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="ff78b2" />
+        <option name="FOREGROUND" value="dbb8ff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -199,12 +196,6 @@
       <value>
         <option name="FOREGROUND" value="a4a5a7" />
         <option name="BACKGROUND" value="494a4f" />
-      </value>
-    </option>
-    <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="287bde" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="GO_BLOCK_COMMENT">
@@ -289,9 +280,6 @@
         <option name="FOREGROUND" value="fd8273" />
       </value>
     </option>
-    <option name="HTML_CODE">
-      <value />
-    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="d9c880" />
@@ -312,16 +300,16 @@
         <option name="FOREGROUND" value="e0c5ff" />
       </value>
     </option>
-    <option name="HYPERLINK_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="287bde" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="4d5565" />
         <option name="ERROR_STRIPE_COLOR" value="81899c" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b389c5" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -336,24 +324,14 @@
         <option name="BACKGROUND" value="c4d3f1" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="b37eee" />
       </value>
     </option>
-    <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value />
-    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -364,8 +342,10 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="585859" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="585859" />
+        <option name="ERROR_STRIPE_COLOR" value="585859" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
