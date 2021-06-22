@@ -61,7 +61,8 @@
         <entry key="QsbkMessage/res/layout/chat_user_layout.xml" value="0.20878623188405798" />
         <entry key="QsbkMessage/res/layout/chat_user_left_layout.xml" value="0.25271739130434784" />
         <entry key="Remix/res/drawable/bg_title_container.xml" value="0.284375" />
-        <entry key="Remix/res/layout/activity_adolescent_mode.xml" value="0.1" />
+        <entry key="Remix/res/layout/activity_adolescent_mode.xml" value="0.13095238095238096" />
+        <entry key="Remix/res/layout/activity_adolescent_video_list.xml" value="0.17980072463768115" />
         <entry key="Remix/res/layout/activity_base_scrollable_video.xml" value="0.1911231884057971" />
         <entry key="Remix/res/layout/activity_feed.xml" value="0.19972826086956522" />
         <entry key="Remix/res/layout/activity_login.xml" value="0.14356884057971014" />
