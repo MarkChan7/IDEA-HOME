@@ -24,6 +24,7 @@
         <entry key="QsbkLive/res/layout/item_newest_live.xml" value="0.13095238095238096" />
         <entry key="QsbkLive/res/layout/item_ovo.xml" value="0.18297101449275363" />
         <entry key="QsbkLive/res/layout/item_ovo_entry.xml" value="0.1" />
+        <entry key="QsbkLive/res/layout/item_ovo_grid.xml" value="0.21240942028985507" />
         <entry key="QsbkLive/res/layout/layout_auto_video_player_view.xml" value="0.1" />
         <entry key="QsbkLive/res/layout/live_base_view.xml" value="0.20606884057971014" />
         <entry key="QsbkLive/res/layout/live_chat_label_item.xml" value="0.192481884057971" />
@@ -61,6 +62,7 @@
         <entry key="QsbkLive/res/layout/wish_gift_grid_item.xml" value="0.29270833333333335" />
         <entry key="QsbkMessage/res/layout/chat_user_layout.xml" value="0.20878623188405798" />
         <entry key="QsbkMessage/res/layout/chat_user_left_layout.xml" value="0.25271739130434784" />
+        <entry key="Remix/res/drawable/bg_screen_ignore.xml" value="0.284375" />
         <entry key="Remix/res/drawable/bg_title_container.xml" value="0.284375" />
         <entry key="Remix/res/layout/activity_adolescent_mode.xml" value="0.13095238095238096" />
         <entry key="Remix/res/layout/activity_adolescent_video_list.xml" value="0.17980072463768115" />
@@ -69,6 +71,7 @@
         <entry key="Remix/res/layout/activity_login.xml" value="0.14356884057971014" />
         <entry key="Remix/res/layout/activity_main.xml" value="0.13095238095238096" />
         <entry key="Remix/res/layout/activity_main_verify.xml" value="0.29270833333333335" />
+        <entry key="Remix/res/layout/activity_splash.xml" value="0.375" />
         <entry key="Remix/res/layout/dialog_adolescent_mode_remind.xml" value="0.17980072463768115" />
         <entry key="Remix/res/layout/fragment_base_scrollable_video.xml" value="0.29270833333333335" />
         <entry key="Remix/res/layout/fragment_feed.xml" value="0.5" />
