@@ -10,6 +10,7 @@
         <entry key="QsbkFeed/res/layout/feed_detail_activity.xml" value="0.1" />
         <entry key="QsbkFeed/res/layout/feed_video_play_activity.xml" value="0.5" />
         <entry key="QsbkLive/res/drawable/bg_one_vs_one_entry.xml" value="0.3078125" />
+        <entry key="QsbkLive/res/drawable/live_one_vs_one_balance_alert_bg.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/live_one_vs_one_bg.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/live_ovo_balance_alert_bg.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/shape_wish_gift_item_bg.xml" value="0.3078125" />
@@ -55,6 +56,7 @@
         <entry key="QsbkLive/res/layout/live_next_view.xml" value="0.20833333333333334" />
         <entry key="QsbkLive/res/layout/live_one_vs_one_activity.xml" value="0.20606884057971014" />
         <entry key="QsbkLive/res/layout/live_one_vs_one_menu.xml" value="0.1644021739130435" />
+        <entry key="QsbkLive/res/layout/live_one_vs_one_pay_activity.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/live_one_vs_one_report_dialog.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/live_online_user_item.xml" value="0.5" />
         <entry key="QsbkLive/res/layout/live_pk_layout.xml" value="0.296875" />
