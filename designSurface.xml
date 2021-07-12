@@ -36,6 +36,7 @@
         <entry key="QsbkLive/res/layout/layout_auto_video_player_view.xml" value="0.1" />
         <entry key="QsbkLive/res/layout/live_base_view.xml" value="0.55" />
         <entry key="QsbkLive/res/layout/live_chat_label_item.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_empty_activity.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/live_family_rank_item.xml" value="0.26927083333333335" />
         <entry key="QsbkLive/res/layout/live_free_gift_view.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/live_game_mining_item.xml" value="0.192481884057971" />
