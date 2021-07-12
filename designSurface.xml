@@ -96,10 +96,11 @@
         <entry key="Remix/res/layout/dialog_adolescent_mode_remind.xml" value="0.17980072463768115" />
         <entry key="Remix/res/layout/fragment_base_list.xml" value="0.20969202898550723" />
         <entry key="Remix/res/layout/fragment_base_scrollable_video.xml" value="0.29270833333333335" />
-        <entry key="Remix/res/layout/fragment_feed.xml" value="0.5" />
+        <entry key="Remix/res/layout/fragment_feed.xml" value="0.375" />
         <entry key="Remix/res/layout/fragment_home_grid_pager.xml" value="0.1" />
         <entry key="Remix/res/layout/fragment_hot.xml" value="0.2604166666666667" />
         <entry key="Remix/res/layout/fragment_ovo_list_tab.xml" value="0.1" />
+        <entry key="Remix/res/layout/fragment_user_page.xml" value="0.18342391304347827" />
         <entry key="Remix/res/layout/item_newest_live_qz.xml" value="0.13177083333333334" />
         <entry key="app/src/main/res/layout/activity_garden.xml" value="0.16530797101449277" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.20652173913043478" />
