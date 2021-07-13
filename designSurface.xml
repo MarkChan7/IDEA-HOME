@@ -60,6 +60,9 @@
         <entry key="QsbkLive/res/layout/live_one_vs_one_pay_activity.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/live_one_vs_one_report_dialog.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/live_online_user_item.xml" value="0.5" />
+        <entry key="QsbkLive/res/layout/live_ovo_base_activity.xml" value="0.1933876811594203" />
+        <entry key="QsbkLive/res/layout/live_ovo_canvas_tips_popup_window.xml" value="0.31432662682161017" />
+        <entry key="QsbkLive/res/layout/live_ovo_user_activity.xml" value="0.1933876811594203" />
         <entry key="QsbkLive/res/layout/live_pk_layout.xml" value="0.296875" />
         <entry key="QsbkLive/res/layout/live_send_continue_item.xml" value="0.26927083333333335" />
         <entry key="QsbkLive/res/layout/live_task_menu_tips.xml" value="0.29270833333333335" />
