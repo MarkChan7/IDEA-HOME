@@ -128,6 +128,8 @@
         <entry key="Remix/res/layout/item_newest_live_qz.xml" value="0.13177083333333334" />
         <entry key="Remix/res/layout/item_newest_video.xml" value="0.20108695652173914" />
         <entry key="Remix/res/layout/user_page_user_info_layout.xml" value="0.18885869565217392" />
+        <entry key="Remix/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="Remix/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1578125" />
         <entry key="app/src/main/res/layout/activity_garden.xml" value="0.16530797101449277" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.20652173913043478" />
         <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.13095238095238096" />
