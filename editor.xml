@@ -3,7 +3,11 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Droid Sans Mono Dotted" />
+    <option name="FONT_FAMILY" value="Droid Sans Mono Slashed" />
+    <option name="SECONDARY_FONT_FAMILY" value="Menlo" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
