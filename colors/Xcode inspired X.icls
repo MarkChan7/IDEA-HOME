@@ -1,18 +1,15 @@
 <scheme name="Xcode inspired X" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-10-22T17:49:11</property>
+    <property name="created">2021-06-29T18:17:08</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">4.1.0.19</property>
-    <property name="modified">2021-02-26T18:26:29</property>
-    <property name="originalScheme">Xcode inspired</property>
+    <property name="ideVersion">4.2.1.0</property>
+    <property name="modified">2021-06-29T18:17:55</property>
+    <property name="originalScheme">Xcode inspired X</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="CARET_ROW_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
@@ -138,6 +135,11 @@
         <option name="FOREGROUND" value="6f33a7" />
       </value>
     </option>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
     <option name="DEFAULT_BRACES">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -180,6 +182,12 @@
         <option name="FOREGROUND" value="5314d" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="3d3d3d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="cc9393" />
@@ -203,8 +211,7 @@
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="0" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -284,6 +291,16 @@
         <option name="FOREGROUND" value="6f33a7" />
       </value>
     </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -354,6 +371,11 @@
       <value>
         <option name="BACKGROUND" value="dddddd" />
         <option name="ERROR_STRIPE_COLOR" value="dddddd" />
+      </value>
+    </option>
+    <option name="IGNORE.UNUSED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -496,16 +518,17 @@
         <option name="FOREGROUND" value="0" />
       </value>
     </option>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
-      </value>
-    </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="cccccc" />
         <option name="ERROR_STRIPE_COLOR" value="cccccc" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="73bf" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
