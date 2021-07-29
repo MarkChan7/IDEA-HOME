@@ -176,8 +176,10 @@
         <entry key="himawari/src/main/res/layout/item_pager_background_color.xml" value="0.182518115942029" />
         <entry key="himawari/src/main/res/layout/loading_view.xml" value="0.2028985507246377" />
         <entry key="himawari/src/main/res/menu/menu_nav.xml" value="0.1" />
+        <entry key="jetpkg/jetpack/src/main/res/layout/activity_ignore_view_binding.xml" value="0.2296195652173913" />
         <entry key="perfopt/src/main/res/layout/activity_overdraw.xml" value="0.19610507246376813" />
         <entry key="roadmap/src/main/res/layout/activity_cancel_touch_event.xml" value="0.19610507246376813" />
+        <entry key="roadmap/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
       </map>
     </option>
   </component>
