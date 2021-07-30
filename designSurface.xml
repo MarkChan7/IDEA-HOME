@@ -180,6 +180,7 @@
         <entry key="himawari/src/main/res/menu/menu_nav.xml" value="0.1" />
         <entry key="jetpkg/jetpack/src/main/res/layout/activity_ignore_view_binding.xml" value="0.2296195652173913" />
         <entry key="jetpkg/jetpack/src/main/res/layout/activity_jetpack_live_data.xml" value="0.45" />
+        <entry key="jetpkg/jetpack/src/main/res/layout/activity_jetpack_main.xml" value="0.22282608695652173" />
         <entry key="launch-mode/activityattr/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
         <entry key="launch-mode/contact/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
         <entry key="perfopt/src/main/res/layout/activity_overdraw.xml" value="0.19610507246376813" />
