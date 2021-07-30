@@ -5,6 +5,8 @@
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../Android/sdk/platforms/android-30/data/res/drawable/btn_borderless_material.xml" value="0.2864583333333333" />
+        <entry key="../../../Android/sdk/platforms/android-30/data/res/drawable/btn_default_mtrl_shape.xml" value="0.2864583333333333" />
         <entry key="QsbkCore/res/layout/dialog_loading.xml" value="0.29270833333333335" />
         <entry key="QsbkCore/res/layout/item_empty.xml" value="0.29270833333333335" />
         <entry key="QsbkCore/res/layout/item_header.xml" value="0.20697463768115942" />
@@ -177,7 +179,7 @@
         <entry key="himawari/src/main/res/layout/loading_view.xml" value="0.2028985507246377" />
         <entry key="himawari/src/main/res/menu/menu_nav.xml" value="0.1" />
         <entry key="jetpkg/jetpack/src/main/res/layout/activity_ignore_view_binding.xml" value="0.2296195652173913" />
-        <entry key="jetpkg/jetpack/src/main/res/layout/activity_jetpack_live_data.xml" value="0.2341485507246377" />
+        <entry key="jetpkg/jetpack/src/main/res/layout/activity_jetpack_live_data.xml" value="0.45" />
         <entry key="launch-mode/activityattr/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
         <entry key="launch-mode/contact/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
         <entry key="perfopt/src/main/res/layout/activity_overdraw.xml" value="0.19610507246376813" />
