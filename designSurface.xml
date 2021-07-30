@@ -19,6 +19,7 @@
         <entry key="QsbkFeed/res/layout/feed_video_play_activity.xml" value="0.5" />
         <entry key="QsbkFeed/res/layout/fragment_feed_grid_pager.xml" value="0.335" />
         <entry key="QsbkLive/res/drawable/bg_one_vs_one_entry.xml" value="0.3078125" />
+        <entry key="QsbkLive/res/drawable/ic_item_list_male_user_call_selector.xml" value="0.2864583333333333" />
         <entry key="QsbkLive/res/drawable/live_one_vs_one_balance_alert_bg.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/live_one_vs_one_bg.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/live_ovo_balance_alert_bg.xml" value="0.3078125" />
@@ -100,6 +101,7 @@
         <entry key="QsbkMessage/res/layout/chat_user_left_layout.xml" value="0.25271739130434784" />
         <entry key="QsbkPay/res/layout/pay_diamond_item.xml" value="0.19384057971014493" />
         <entry key="Remix/res/drawable/bg_bottom_dim_gradient.xml" value="0.284375" />
+        <entry key="Remix/res/drawable/bg_item_list_male_user_greet.xml" value="0.2864583333333333" />
         <entry key="Remix/res/drawable/bg_live_rank.xml" value="0.18125" />
         <entry key="Remix/res/drawable/bg_main_action.xml" value="0.284375" />
         <entry key="Remix/res/drawable/bg_main_aty_bottom_actions.xml" value="0.284375" />
@@ -128,12 +130,16 @@
         <entry key="Remix/res/layout/fragment_home_grid_pager.xml" value="0.5" />
         <entry key="Remix/res/layout/fragment_hot.xml" value="0.2604166666666667" />
         <entry key="Remix/res/layout/fragment_ovo_list_tab.xml" value="0.1" />
-        <entry key="Remix/res/layout/fragment_personal_page.xml" value="0.1816123188405797" />
+        <entry key="Remix/res/layout/fragment_personal_page.xml" value="0.45" />
         <entry key="Remix/res/layout/fragment_user_page.xml" value="0.18931159420289856" />
+        <entry key="Remix/res/layout/item_list_male_user.xml" value="0.1" />
         <entry key="Remix/res/layout/item_login_options.xml" value="0.1" />
         <entry key="Remix/res/layout/item_newest_live_qz.xml" value="0.13177083333333334" />
         <entry key="Remix/res/layout/item_newest_video.xml" value="0.20108695652173914" />
+        <entry key="Remix/res/layout/layout_video_empty.xml" value="0.20153985507246377" />
+        <entry key="Remix/res/layout/layout_video_player_view.xml" value="0.20153985507246377" />
         <entry key="Remix/res/layout/user_page_user_info_layout.xml" value="0.18885869565217392" />
+        <entry key="Remix/res/layout/view_user_gallery_delete_bottomsheet.xml" value="0.20153985507246377" />
         <entry key="Remix/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3078125" />
         <entry key="Remix/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3078125" />
         <entry key="app/src/main/res/layout/activity_garden.xml" value="0.16530797101449277" />
@@ -170,6 +176,11 @@
         <entry key="himawari/src/main/res/layout/item_pager_background_color.xml" value="0.182518115942029" />
         <entry key="himawari/src/main/res/layout/loading_view.xml" value="0.2028985507246377" />
         <entry key="himawari/src/main/res/menu/menu_nav.xml" value="0.1" />
+        <entry key="jetpkg/jetpack/src/main/res/layout/activity_ignore_view_binding.xml" value="0.2296195652173913" />
+        <entry key="jetpkg/jetpack/src/main/res/layout/activity_jetpack_live_data.xml" value="0.14492753623188406" />
+        <entry key="perfopt/src/main/res/layout/activity_overdraw.xml" value="0.19610507246376813" />
+        <entry key="roadmap/src/main/res/layout/activity_cancel_touch_event.xml" value="0.19610507246376813" />
+        <entry key="roadmap/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
       </map>
     </option>
   </component>
