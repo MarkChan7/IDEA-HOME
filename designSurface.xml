@@ -6,6 +6,7 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="QsbkCore/res/drawable/bg_accent_circle.xml" value="0.3645833333333333" />
+        <entry key="QsbkCore/res/drawable/bg_simple_dialog_negative_btn.xml" value="0.3802083333333333" />
         <entry key="QsbkCore/res/layout/dialog_loading.xml" value="0.29270833333333335" />
         <entry key="QsbkCore/res/layout/item_empty.xml" value="0.29270833333333335" />
         <entry key="QsbkCore/res/layout/item_header.xml" value="0.3640625" />
@@ -125,7 +126,7 @@
         <entry key="Remix/res/drawable/bg_white_corner_12dp_top.xml" value="0.3802083333333333" />
         <entry key="Remix/res/drawable/bg_white_corner_8dp_bottom.xml" value="0.3802083333333333" />
         <entry key="Remix/res/drawable/bg_white_corner_8dp_top.xml" value="0.3802083333333333" />
-        <entry key="Remix/res/drawable/full_user_info_gender_selector.xml" value="0.1" />
+        <entry key="Remix/res/drawable/full_user_info_gender_selector.xml" value="0.3802083333333333" />
         <entry key="Remix/res/drawable/login_btn_bg.xml" value="0.3078125" />
         <entry key="Remix/res/drawable/login_btn_bg_disable.xml" value="0.3078125" />
         <entry key="Remix/res/drawable/login_wechat_btn_bg.xml" value="0.3078125" />
