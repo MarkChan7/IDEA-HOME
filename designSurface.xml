@@ -5,6 +5,7 @@
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="QsbkCore/res/drawable/bg_accent_circle.xml" value="0.3645833333333333" />
         <entry key="QsbkCore/res/layout/dialog_loading.xml" value="0.29270833333333335" />
         <entry key="QsbkCore/res/layout/item_empty.xml" value="0.29270833333333335" />
         <entry key="QsbkCore/res/layout/item_header.xml" value="0.3640625" />
@@ -134,7 +135,7 @@
         <entry key="Remix/res/layout/activity_base_scrollable_video.xml" value="0.1911231884057971" />
         <entry key="Remix/res/layout/activity_edit.xml" value="0.2463768115942029" />
         <entry key="Remix/res/layout/activity_feed.xml" value="0.19972826086956522" />
-        <entry key="Remix/res/layout/activity_full_user_info.xml" value="0.6724351050679852" />
+        <entry key="Remix/res/layout/activity_full_user_info.xml" value="0.55" />
         <entry key="Remix/res/layout/activity_login.xml" value="0.1816123188405797" />
         <entry key="Remix/res/layout/activity_main.xml" value="0.46201966041108133" />
         <entry key="Remix/res/layout/activity_main_action.xml" value="0.20833333333333334" />
