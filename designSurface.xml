@@ -149,6 +149,7 @@
         <entry key="Remix/res/layout/activity_splash.xml" value="0.375" />
         <entry key="Remix/res/layout/dialog_adolescent_mode_remind.xml" value="0.17980072463768115" />
         <entry key="Remix/res/layout/dialog_setting_more.xml" value="0.3640625" />
+        <entry key="Remix/res/layout/dialog_upgrade.xml" value="0.3640625" />
         <entry key="Remix/res/layout/fragment_base_list.xml" value="0.20969202898550723" />
         <entry key="Remix/res/layout/fragment_base_scrollable_video.xml" value="0.29270833333333335" />
         <entry key="Remix/res/layout/fragment_feed.xml" value="0.375" />
