@@ -58,6 +58,7 @@
         <entry key="QsbkLive/res/layout/live_audio_room_activity.xml" value="0.18931159420289856" />
         <entry key="QsbkLive/res/layout/live_base_bone_view.xml" value="0.30344202898550726" />
         <entry key="QsbkLive/res/layout/live_base_view.xml" value="0.55" />
+        <entry key="QsbkLive/res/layout/live_charm_rank_item.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/live_chat_label_item.xml" value="0.192481884057971" />
         <entry key="QsbkLive/res/layout/live_empty_activity.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/live_family_rank_item.xml" value="0.26927083333333335" />
@@ -102,6 +103,7 @@
         <entry key="QsbkLive/res/layout/ovo_charm_rank_item.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/popup_window_one_vs_one_game_options.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/view_charm_header_item.xml" value="0.3640625" />
+        <entry key="QsbkLive/res/layout/view_charm_rank_header.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/view_push_decorate.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/view_wish_anchor_make_wish.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/view_wish_anchor_wish_progress.xml" value="0.29270833333333335" />
