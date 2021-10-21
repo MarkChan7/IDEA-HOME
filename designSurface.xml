@@ -30,6 +30,7 @@
         <entry key="QsbkLive/res/drawable/ovo_charm_bg_header_top3.xml" value="0.37916666666666665" />
         <entry key="QsbkLive/res/drawable/shape_wish_gift_item_bg.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/user_one_vs_one_red_circle.xml" value="0.3078125" />
+        <entry key="QsbkLive/res/layout/activity_network_config.xml" value="0.13385416666666666" />
         <entry key="QsbkLive/res/layout/dialog_live_permission.xml" value="0.1852355072463768" />
         <entry key="QsbkLive/res/layout/dialog_ovo_type.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/dialog_wish_add_gift_layout.xml" value="0.29270833333333335" />
@@ -48,6 +49,7 @@
         <entry key="QsbkLive/res/layout/guide_date.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/guide_get_gift.xml" value="0.19157608695652173" />
         <entry key="QsbkLive/res/layout/guide_send_gift.xml" value="0.29270833333333335" />
+        <entry key="QsbkLive/res/layout/inflate_crystal_game_view.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/item_button_item.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/item_list_ovo_show_video.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/item_newest_live.xml" value="0.1816123188405797" />
@@ -66,6 +68,7 @@
         <entry key="QsbkLive/res/layout/live_empty_activity.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/live_family_rank_item.xml" value="0.26927083333333335" />
         <entry key="QsbkLive/res/layout/live_free_gift_view.xml" value="0.29270833333333335" />
+        <entry key="QsbkLive/res/layout/live_game_crystal.xml" value="0.23550724637681159" />
         <entry key="QsbkLive/res/layout/live_game_mining_item.xml" value="0.192481884057971" />
         <entry key="QsbkLive/res/layout/live_game_options.xml" value="0.192481884057971" />
         <entry key="QsbkLive/res/layout/live_gift_animation_layout.xml" value="0.26927083333333335" />
@@ -74,9 +77,9 @@
         <entry key="QsbkLive/res/layout/live_gift_box_item.xml" value="0.192481884057971" />
         <entry key="QsbkLive/res/layout/live_gift_doodle_view.xml" value="0.1" />
         <entry key="QsbkLive/res/layout/live_gift_grid_item.xml" value="0.3640625" />
-        <entry key="QsbkLive/res/layout/live_gift_send_count_all.xml" value="0.192481884057971" />
-        <entry key="QsbkLive/res/layout/live_gift_send_count_custom.xml" value="0.192481884057971" />
-        <entry key="QsbkLive/res/layout/live_gift_send_count_item.xml" value="0.192481884057971" />
+        <entry key="QsbkLive/res/layout/live_gift_send_count_all.xml" value="0.3640625" />
+        <entry key="QsbkLive/res/layout/live_gift_send_count_custom.xml" value="0.3640625" />
+        <entry key="QsbkLive/res/layout/live_gift_send_count_item.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/live_gift_svga_layout.xml" value="0.192481884057971" />
         <entry key="QsbkLive/res/layout/live_giftrank_item.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/live_guide_message_item.xml" value="0.3640625" />
@@ -165,8 +168,9 @@
         <entry key="Remix/res/layout/fragment_feed.xml" value="0.375" />
         <entry key="Remix/res/layout/fragment_home_grid_pager.xml" value="0.5" />
         <entry key="Remix/res/layout/fragment_hot.xml" value="0.2604166666666667" />
-        <entry key="Remix/res/layout/fragment_ovo_list_tab.xml" value="0.13095238095238096" />
+        <entry key="Remix/res/layout/fragment_ovo_list_tab.xml" value="1.0" />
         <entry key="Remix/res/layout/fragment_personal_page.xml" value="0.3640625" />
+        <entry key="Remix/res/layout/fragment_personal_page_ygbh.xml" value="0.3640625" />
         <entry key="Remix/res/layout/fragment_user_page.xml" value="0.3640625" />
         <entry key="Remix/res/layout/item_login_options.xml" value="0.1" />
         <entry key="Remix/res/layout/item_newest_live_qz.xml" value="0.13177083333333334" />
