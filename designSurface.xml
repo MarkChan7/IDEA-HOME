@@ -49,6 +49,7 @@
         <entry key="QsbkLive/res/layout/guide_date.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/guide_get_gift.xml" value="0.19157608695652173" />
         <entry key="QsbkLive/res/layout/guide_send_gift.xml" value="0.29270833333333335" />
+        <entry key="QsbkLive/res/layout/inflate_crystal_game_view.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/item_button_item.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/item_list_ovo_show_video.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/item_newest_live.xml" value="0.1816123188405797" />
@@ -67,6 +68,7 @@
         <entry key="QsbkLive/res/layout/live_empty_activity.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/live_family_rank_item.xml" value="0.26927083333333335" />
         <entry key="QsbkLive/res/layout/live_free_gift_view.xml" value="0.29270833333333335" />
+        <entry key="QsbkLive/res/layout/live_game_crystal.xml" value="0.23550724637681159" />
         <entry key="QsbkLive/res/layout/live_game_mining_item.xml" value="0.192481884057971" />
         <entry key="QsbkLive/res/layout/live_game_options.xml" value="0.192481884057971" />
         <entry key="QsbkLive/res/layout/live_gift_animation_layout.xml" value="0.26927083333333335" />
