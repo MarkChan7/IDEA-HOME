@@ -184,6 +184,7 @@
         <entry key="Remix/res/layout/view_new_message.xml" value="0.3640625" />
         <entry key="Remix/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3078125" />
         <entry key="Remix/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3078125" />
+        <entry key="VideoCall/src/main/res/layout/videocall_activit_enter.xml" value="0.3640625" />
         <entry key="app/src/main/res/layout/activity_garden.xml" value="0.16530797101449277" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.20652173913043478" />
         <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.13095238095238096" />
