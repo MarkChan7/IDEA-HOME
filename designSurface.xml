@@ -85,6 +85,7 @@
         <entry key="QsbkLive/res/layout/live_guide_message_item.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/live_large_gift_user_item.xml" value="0.5" />
         <entry key="QsbkLive/res/layout/live_message_item.xml" value="0.3640625" />
+        <entry key="QsbkLive/res/layout/live_mic_connect_dialog.xml" value="0.3640625" />
         <entry key="QsbkLive/res/layout/live_next_view.xml" value="0.20833333333333334" />
         <entry key="QsbkLive/res/layout/live_one_vs_one_activity.xml" value="0.20606884057971014" />
         <entry key="QsbkLive/res/layout/live_one_vs_one_menu.xml" value="0.1644021739130435" />
