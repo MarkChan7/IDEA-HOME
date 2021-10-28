@@ -62,16 +62,6 @@
         <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
       </value>
     </option>
-    <option name="MANIFEST_SETTINGS">
-      <value>
-        <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
-      </value>
-    </option>
-    <option name="OTHER_SETTINGS">
-      <value>
-        <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
-      </value>
-    </option>
   </AndroidXmlCodeStyleSettings>
   <GroovyCodeStyleSettings>
     <option name="ALIGN_MULTILINE_LIST_OR_MAP" value="false" />
