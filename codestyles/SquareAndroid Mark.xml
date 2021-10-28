@@ -56,13 +56,6 @@
   <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
   <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
   <option name="ENUM_CONSTANTS_WRAP" value="1" />
-  <AndroidXmlCodeStyleSettings>
-    <option name="LAYOUT_SETTINGS">
-      <value>
-        <option name="INSERT_LINE_BREAK_BEFORE_NAMESPACE_DECLARATION" value="true" />
-      </value>
-    </option>
-  </AndroidXmlCodeStyleSettings>
   <GroovyCodeStyleSettings>
     <option name="ALIGN_MULTILINE_LIST_OR_MAP" value="false" />
     <option name="ALIGN_NAMED_ARGS_IN_MAP" value="false" />
@@ -102,7 +95,6 @@
   </JetCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_BLANK_LINES" value="1" />
-    <option name="XML_ALIGN_ATTRIBUTES" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <ADDITIONAL_INDENT_OPTIONS fileType="php">
