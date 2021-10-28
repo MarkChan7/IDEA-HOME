@@ -233,7 +233,9 @@
         <entry key="himawari/src/main/res/menu/menu_nav.xml" value="0.1" />
         <entry key="jetpkg/jetpack/src/main/res/layout/activity_nav_host.xml" value="0.1" />
         <entry key="material-design/src/main/res/layout/activity_material_design.xml" value="0.1" />
+        <entry key="roadmap/src/main/res/layout/activity_a.xml" value="0.2056159420289855" />
         <entry key="roadmap/src/main/res/layout/activity_remote.xml" value="0.1" />
+        <entry key="roadmap/src/main/res/mipmap-anydpi-v26/android_ic_launcher.xml" value="0.26666666666666666" />
       </map>
     </option>
   </component>
