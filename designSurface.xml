@@ -22,7 +22,9 @@
         <entry key="QsbkFeed/res/layout/feed_list_item_video.xml" value="0.29270833333333335" />
         <entry key="QsbkFeed/res/layout/feed_video_play_activity.xml" value="0.5" />
         <entry key="QsbkFeed/res/layout/fragment_feed_grid_pager.xml" value="0.335" />
+        <entry key="QsbkLive/res/drawable-v19/live_gift_send_continue_bg.xml" value="0.2864583333333333" />
         <entry key="QsbkLive/res/drawable/bg_one_vs_one_entry.xml" value="0.3078125" />
+        <entry key="QsbkLive/res/drawable/live_gift_send_continue_bg.xml" value="0.2864583333333333" />
         <entry key="QsbkLive/res/drawable/live_mute_selector.xml" value="0.3802083333333333" />
         <entry key="QsbkLive/res/drawable/live_one_vs_one_balance_alert_bg.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/live_one_vs_one_bg.xml" value="0.3078125" />
@@ -121,6 +123,7 @@
         <entry key="QsbkLive/res/layout/view_wish_rank_avatar.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/view_wish_select_gift_amount_layout.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/wish_gift_grid_item.xml" value="0.29270833333333335" />
+        <entry key="QsbkMessage/res/layout/chat_detail_layout.xml" value="0.2703125" />
         <entry key="QsbkMessage/res/layout/chat_user_card_view.xml" value="0.3640625" />
         <entry key="QsbkMessage/res/layout/chat_user_layout.xml" value="0.20878623188405798" />
         <entry key="QsbkMessage/res/layout/chat_user_left_layout.xml" value="0.25271739130434784" />
