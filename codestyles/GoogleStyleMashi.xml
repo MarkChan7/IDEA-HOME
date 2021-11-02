@@ -1,4 +1,7 @@
 <code_scheme name="GoogleStyleMashi" version="173">
+  <AndroidXmlCodeStyleSettings>
+    <option name="USE_CUSTOM_SETTINGS" value="true" />
+  </AndroidXmlCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
@@ -248,6 +251,9 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <XML>
+    <option name="XML_KEEP_BLANK_LINES" value="1" />
+  </XML>
   <ADDITIONAL_INDENT_OPTIONS fileType="haml">
     <option name="INDENT_SIZE" value="2" />
   </ADDITIONAL_INDENT_OPTIONS>
