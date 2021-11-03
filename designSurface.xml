@@ -216,7 +216,11 @@
         <entry key="arch/mvvm/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="arch/mvvm/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2864583333333333" />
         <entry key="arch/mvvm/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2864583333333333" />
+        <entry key="catalog/java/io/material/catalog/button/res/layout/cat_buttons_fragment.xml" value="0.3211050724637681" />
         <entry key="catalog/java/io/material/catalog/datepicker/res/layout/cat_picker_title.xml" value="0.1" />
+        <entry key="catalog/java/io/material/catalog/feature/res/layout/cat_demo_landing_fragment.xml" value="0.3640625" />
+        <entry key="catalog/java/io/material/catalog/feature/res/layout/cat_demo_landing_link_entry.xml" value="0.3640625" />
+        <entry key="catalog/java/io/material/catalog/feature/res/layout/cat_demo_landing_links_section.xml" value="0.3640625" />
         <entry key="himawari/src/main/res/drawable/bg_placeholder.xml" value="0.378125" />
         <entry key="himawari/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="himawari/src/main/res/layout/activity_material_category.xml" value="0.20425724637681159" />
