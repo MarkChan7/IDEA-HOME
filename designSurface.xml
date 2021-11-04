@@ -21,7 +21,7 @@
         <entry key="QsbkFeed/res/layout/feed_list_item_single_picture.xml" value="0.29270833333333335" />
         <entry key="QsbkFeed/res/layout/feed_list_item_video.xml" value="0.29270833333333335" />
         <entry key="QsbkFeed/res/layout/feed_video_play_activity.xml" value="0.5" />
-        <entry key="QsbkFeed/res/layout/fragment_feed_grid_pager.xml" value="0.335" />
+        <entry key="QsbkFeed/res/layout/fragment_feed_grid_pager.xml" value="0.3640625" />
         <entry key="QsbkLive/res/drawable-v19/live_gift_send_continue_bg.xml" value="0.2864583333333333" />
         <entry key="QsbkLive/res/drawable/bg_one_vs_one_entry.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/live_gift_send_continue_bg.xml" value="0.2864583333333333" />
@@ -145,6 +145,7 @@
         <entry key="Remix/res/drawable/bg_white_corner_8dp_bottom.xml" value="0.3802083333333333" />
         <entry key="Remix/res/drawable/bg_white_corner_8dp_top.xml" value="0.3802083333333333" />
         <entry key="Remix/res/drawable/full_user_info_gender_selector.xml" value="0.3802083333333333" />
+        <entry key="Remix/res/drawable/ic_live_view_pager_tab_normal.xml" value="0.1" />
         <entry key="Remix/res/drawable/login_btn_bg.xml" value="0.3078125" />
         <entry key="Remix/res/drawable/login_btn_bg_disable.xml" value="0.3078125" />
         <entry key="Remix/res/drawable/login_wechat_btn_bg.xml" value="0.3078125" />
@@ -156,7 +157,7 @@
         <entry key="Remix/res/layout/activity_edit.xml" value="0.2463768115942029" />
         <entry key="Remix/res/layout/activity_feed.xml" value="0.19972826086956522" />
         <entry key="Remix/res/layout/activity_full_user_info.xml" value="0.7279260780287474" />
-        <entry key="Remix/res/layout/activity_login.xml" value="0.1816123188405797" />
+        <entry key="Remix/res/layout/activity_login.xml" value="0.3640625" />
         <entry key="Remix/res/layout/activity_main.xml" value="0.46201966041108133" />
         <entry key="Remix/res/layout/activity_main_action.xml" value="0.20833333333333334" />
         <entry key="Remix/res/layout/activity_main_verify.xml" value="0.29270833333333335" />
@@ -175,6 +176,7 @@
         <entry key="Remix/res/layout/fragment_hot.xml" value="0.2604166666666667" />
         <entry key="Remix/res/layout/fragment_ovo_list_tab.xml" value="0.2536231884057971" />
         <entry key="Remix/res/layout/fragment_personal_page.xml" value="0.3640625" />
+        <entry key="Remix/res/layout/fragment_personal_page_km.xml" value="0.3640625" />
         <entry key="Remix/res/layout/fragment_personal_page_ygbh.xml" value="0.3640625" />
         <entry key="Remix/res/layout/fragment_user_page.xml" value="0.3640625" />
         <entry key="Remix/res/layout/item_login_options.xml" value="0.1" />
