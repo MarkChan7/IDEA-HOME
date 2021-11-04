@@ -21,7 +21,7 @@
         <entry key="QsbkFeed/res/layout/feed_list_item_single_picture.xml" value="0.29270833333333335" />
         <entry key="QsbkFeed/res/layout/feed_list_item_video.xml" value="0.29270833333333335" />
         <entry key="QsbkFeed/res/layout/feed_video_play_activity.xml" value="0.5" />
-        <entry key="QsbkFeed/res/layout/fragment_feed_grid_pager.xml" value="0.335" />
+        <entry key="QsbkFeed/res/layout/fragment_feed_grid_pager.xml" value="0.3640625" />
         <entry key="QsbkLive/res/drawable-v19/live_gift_send_continue_bg.xml" value="0.2864583333333333" />
         <entry key="QsbkLive/res/drawable/bg_one_vs_one_entry.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/live_gift_send_continue_bg.xml" value="0.2864583333333333" />
@@ -156,7 +156,7 @@
         <entry key="Remix/res/layout/activity_edit.xml" value="0.2463768115942029" />
         <entry key="Remix/res/layout/activity_feed.xml" value="0.19972826086956522" />
         <entry key="Remix/res/layout/activity_full_user_info.xml" value="0.7279260780287474" />
-        <entry key="Remix/res/layout/activity_login.xml" value="0.1816123188405797" />
+        <entry key="Remix/res/layout/activity_login.xml" value="0.3640625" />
         <entry key="Remix/res/layout/activity_main.xml" value="0.46201966041108133" />
         <entry key="Remix/res/layout/activity_main_action.xml" value="0.20833333333333334" />
         <entry key="Remix/res/layout/activity_main_verify.xml" value="0.29270833333333335" />
