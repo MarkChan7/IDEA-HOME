@@ -18,11 +18,12 @@
       <package name="" withSubpackages="true" static="true" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="120" />
+  <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+  <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
   <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
   <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
   <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-  <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
-  <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
   <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
   <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
   <option name="ALIGN_MULTILINE_FOR" value="false" />
@@ -53,9 +54,6 @@
   <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
   <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
   <option name="ENUM_CONSTANTS_WRAP" value="1" />
-  <AndroidXmlCodeStyleSettings>
-    <option name="USE_CUSTOM_SETTINGS" value="true" />
-  </AndroidXmlCodeStyleSettings>
   <GroovyCodeStyleSettings>
     <option name="ALIGN_MULTILINE_LIST_OR_MAP" value="false" />
     <option name="ALIGN_NAMED_ARGS_IN_MAP" value="false" />
@@ -95,7 +93,6 @@
   </JetCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_BLANK_LINES" value="1" />
-    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
   </XML>
   <ADDITIONAL_INDENT_OPTIONS fileType="php">
     <option name="INDENT_SIZE" value="2" />
@@ -156,6 +153,7 @@
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BETWEEN_PACKAGE_DECLARATION_AND_HEADER" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
