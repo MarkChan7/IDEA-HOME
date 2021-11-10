@@ -34,6 +34,7 @@
         <entry key="QsbkLive/res/drawable/live_one_vs_one_balance_alert_bg.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/live_one_vs_one_bg.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/live_ovo_balance_alert_bg.xml" value="0.3078125" />
+        <entry key="QsbkLive/res/drawable/live_ovo_new_btn_bg.xml" value="0.5369791666666667" />
         <entry key="QsbkLive/res/drawable/live_user_card_at_btn_bg.xml" value="0.5369791666666667" />
         <entry key="QsbkLive/res/drawable/ovo_charm_bg_header_top3.xml" value="0.37916666666666665" />
         <entry key="QsbkLive/res/drawable/shape_wish_gift_item_bg.xml" value="0.3078125" />
@@ -191,6 +192,7 @@
         <entry key="Remix/res/layout/item_follow_live_div_ovo.xml" value="0.5166666666666667" />
         <entry key="Remix/res/layout/item_login_options.xml" value="0.1" />
         <entry key="Remix/res/layout/item_newest_live_div_ovo.xml" value="0.5166666666666667" />
+        <entry key="Remix/res/layout/item_newest_live_div_ovo_km.xml" value="0.5166666666666667" />
         <entry key="Remix/res/layout/item_newest_live_qz.xml" value="0.13177083333333334" />
         <entry key="Remix/res/layout/item_newest_video.xml" value="0.20108695652173914" />
         <entry key="Remix/res/layout/user_edit_album_item.xml" value="0.34148550724637683" />
