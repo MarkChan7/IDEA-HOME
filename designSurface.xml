@@ -24,11 +24,17 @@
         <entry key="QsbkFeed/res/layout/fragment_feed_grid_pager.xml" value="0.3640625" />
         <entry key="QsbkLive/res/drawable-v19/live_gift_send_continue_bg.xml" value="0.2864583333333333" />
         <entry key="QsbkLive/res/drawable/bg_one_vs_one_entry.xml" value="0.3078125" />
+        <entry key="QsbkLive/res/drawable/live_at_btn_bg.xml" value="0.5369791666666667" />
+        <entry key="QsbkLive/res/drawable/live_follow_btn_bg.xml" value="0.5369791666666667" />
+        <entry key="QsbkLive/res/drawable/live_follow_btn_bg_rect.xml" value="0.5369791666666667" />
         <entry key="QsbkLive/res/drawable/live_gift_send_continue_bg.xml" value="0.2864583333333333" />
+        <entry key="QsbkLive/res/drawable/live_mic_btn_bg.xml" value="0.5369791666666667" />
         <entry key="QsbkLive/res/drawable/live_mute_selector.xml" value="0.3802083333333333" />
+        <entry key="QsbkLive/res/drawable/live_noble_pay_btn_selector.xml" value="0.5369791666666667" />
         <entry key="QsbkLive/res/drawable/live_one_vs_one_balance_alert_bg.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/live_one_vs_one_bg.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/live_ovo_balance_alert_bg.xml" value="0.3078125" />
+        <entry key="QsbkLive/res/drawable/live_user_card_at_btn_bg.xml" value="0.5369791666666667" />
         <entry key="QsbkLive/res/drawable/ovo_charm_bg_header_top3.xml" value="0.37916666666666665" />
         <entry key="QsbkLive/res/drawable/shape_wish_gift_item_bg.xml" value="0.3078125" />
         <entry key="QsbkLive/res/drawable/user_one_vs_one_red_circle.xml" value="0.3078125" />
@@ -182,7 +188,9 @@
         <entry key="Remix/res/layout/fragment_personal_page_km.xml" value="0.3640625" />
         <entry key="Remix/res/layout/fragment_personal_page_ygbh.xml" value="0.3640625" />
         <entry key="Remix/res/layout/fragment_user_page.xml" value="0.3640625" />
+        <entry key="Remix/res/layout/item_follow_live_div_ovo.xml" value="0.5166666666666667" />
         <entry key="Remix/res/layout/item_login_options.xml" value="0.1" />
+        <entry key="Remix/res/layout/item_newest_live_div_ovo.xml" value="0.5166666666666667" />
         <entry key="Remix/res/layout/item_newest_live_qz.xml" value="0.13177083333333334" />
         <entry key="Remix/res/layout/item_newest_video.xml" value="0.20108695652173914" />
         <entry key="Remix/res/layout/user_edit_album_item.xml" value="0.34148550724637683" />
