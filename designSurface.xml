@@ -137,8 +137,10 @@
         <entry key="QsbkLive/res/layout/view_wish_select_gift_amount_layout.xml" value="0.29270833333333335" />
         <entry key="QsbkLive/res/layout/wish_gift_grid_item.xml" value="0.29270833333333335" />
         <entry key="QsbkMessage/res/layout/chat_detail_layout.xml" value="0.2703125" />
+        <entry key="QsbkMessage/res/layout/chat_system.xml" value="0.25905797101449274" />
+        <entry key="QsbkMessage/res/layout/chat_user_card_layout.xml" value="0.25905797101449274" />
         <entry key="QsbkMessage/res/layout/chat_user_card_view.xml" value="0.3640625" />
-        <entry key="QsbkMessage/res/layout/chat_user_layout.xml" value="0.20878623188405798" />
+        <entry key="QsbkMessage/res/layout/chat_user_layout.xml" value="0.25905797101449274" />
         <entry key="QsbkMessage/res/layout/chat_user_left_layout.xml" value="0.25271739130434784" />
         <entry key="QsbkMessage/res/layout/fragment_new_message_tab.xml" value="0.5" />
         <entry key="QsbkMessage/res/layout/latest_chat_item.xml" value="0.1" />
