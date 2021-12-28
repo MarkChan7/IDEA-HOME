@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="revert&#10;" />
+      <item value="composeOptions {&#10;        kotlinCompilerExtensionVersion '1.1.0-rc02' // For Kotlin 1.6.10. Revert with rc03&#10;    }" />
       <item value=".bundle" />
       <item value="不显示评分页面, 直接关闭" />
       <item value="axis" />
@@ -14,12 +16,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634892172339" />
+    <option name="lastTrimTime" value="1640674936364" />
   </component>
 </application>
