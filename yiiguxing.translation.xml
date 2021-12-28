@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="574" />
+    <option name="newTranslationDialogWidth" value="1148" />
+    <option name="newTranslationDialogX" value="532" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
       <item value="revert&#10;" />
