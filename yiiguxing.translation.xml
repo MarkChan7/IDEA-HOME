@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="1148" />
-    <option name="newTranslationDialogX" value="292" />
-    <option name="newTranslationDialogY" value="395" />
+    <option name="newTranslationDialogHeight" value="164" />
+    <option name="newTranslationDialogWidth" value="434" />
+    <option name="newTranslationDialogX" value="556" />
+    <option name="newTranslationDialogY" value="644" />
     <histories>
+      <item value="opposite" />
+      <item value="opposite&#10;" />
+      <item value="opp" />
+      <item value="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" />
       <item value="substitute" />
       <item value="substitut\" />
       <item value="substitute project(&quot;${key.path}&quot;) with module(&quot;${value.groupId}:${getArtifactName(key, value.artifactId)}:${value.version}&quot;)&#10;                        }" />
@@ -20,12 +25,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640674936364" />
+    <option name="lastTrimTime" value="1642559417259" />
   </component>
 </application>
