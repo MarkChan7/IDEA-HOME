@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="C7YVB20520002601" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-08T03:41:15.215920Z" />
+        <name value="HUAWEI HLK-AL00" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
