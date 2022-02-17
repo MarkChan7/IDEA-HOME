@@ -30,6 +30,9 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
