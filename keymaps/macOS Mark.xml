@@ -1,0 +1,42 @@
+<keymap version="1" name="macOS Mark" parent="Mac OS X 10.5+">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+</keymap>

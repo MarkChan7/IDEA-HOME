@@ -1,0 +1,39 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="164" />
+    <option name="newTranslationDialogWidth" value="434" />
+    <option name="newTranslationDialogX" value="556" />
+    <option name="newTranslationDialogY" value="644" />
+    <histories>
+      <item value="modal" />
+      <item value="偶数&#10;" />
+      <item value="ou'shu" />
+      <item value="opposite" />
+      <item value="opposite&#10;" />
+      <item value="opp" />
+      <item value="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" />
+      <item value="substitute" />
+      <item value="substitut\" />
+      <item value="substitute project(&quot;${key.path}&quot;) with module(&quot;${value.groupId}:${getArtifactName(key, value.artifactId)}:${value.version}&quot;)&#10;                        }" />
+      <item value="revert&#10;" />
+      <item value="composeOptions {&#10;        kotlinCompilerExtensionVersion '1.1.0-rc02' // For Kotlin 1.6.10. Revert with rc03&#10;    }" />
+      <item value=".bundle" />
+      <item value="不显示评分页面, 直接关闭" />
+      <item value="axis" />
+      <item value="accuracy" />
+      <item value="accuracy&#10;" />
+      <item value="accura" />
+      <item value="acc" />
+      <item value="MiniMap&#10;" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="11" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1642559417259" />
+  </component>
+</application>

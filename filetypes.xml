@@ -1,7 +1,15 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="beauty" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="licbag" type="PLAIN_TEXT" />
+      <mapping ext="xmind" type="PLAIN_TEXT" />
+      <mapping ext="crc" type="PLAIN_TEXT" />
+      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
