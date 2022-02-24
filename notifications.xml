@@ -5,5 +5,6 @@
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" />
     <notification groupId="Key Promoter X" displayType="NONE" />
+    <notification groupId="Language Plugins Notifications" displayType="NONE" />
   </component>
 </application>
