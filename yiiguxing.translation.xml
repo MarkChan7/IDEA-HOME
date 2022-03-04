@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="164" />
     <option name="newTranslationDialogWidth" value="434" />
-    <option name="newTranslationDialogX" value="814" />
-    <option name="newTranslationDialogY" value="485" />
+    <option name="newTranslationDialogX" value="145" />
+    <option name="newTranslationDialogY" value="-730" />
     <histories>
+      <item value="guaranteed" />
       <item value="tonal" />
       <item value="coincide" />
       <item value="semantics" />
@@ -31,7 +32,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
+        <entry key="CHINESE" value="21" />
         <entry key="ENGLISH" value="11" />
       </map>
     </option>
