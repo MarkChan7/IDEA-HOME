@@ -2,8 +2,12 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="beauty" type="AUTO_DETECTED" />
+      <mapping ext="java_api" type="JAVA" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="kt_api" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".gitignore_api" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignoreapi" type="PLAIN_TEXT" />
       <mapping ext="licbag" type="PLAIN_TEXT" />
       <mapping ext="crc" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="PLAIN_TEXT" />
