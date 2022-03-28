@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="164" />
-    <option name="newTranslationDialogWidth" value="434" />
-    <option name="newTranslationDialogX" value="145" />
-    <option name="newTranslationDialogY" value="-730" />
+    <option name="newTranslationDialogHeight" value="177" />
+    <option name="newTranslationDialogWidth" value="432" />
+    <option name="newTranslationDialogX" value="782" />
+    <option name="newTranslationDialogY" value="464" />
     <histories>
+      <item value="corresponding" />
+      <item value="Temporal" />
+      <item value="@MappedSuperclass" />
       <item value="Owl" />
       <item value="Course" />
       <item value="precisely" />
@@ -35,12 +38,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
+        <entry key="CHINESE" value="27" />
         <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646103412526" />
+    <option name="lastTrimTime" value="1648453071065" />
   </component>
 </application>
