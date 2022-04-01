@@ -8,10 +8,22 @@
             <value value="C7YVB20520002601" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-28T11:35:21.801551Z" />
+        <lastOnlineTime value="2022-03-28T13:35:23.549873Z" />
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="1a7aa61" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-17T12:15:21.938846Z" />
+        <name value="Xiaomi Mi Note 3" />
+        <target value="Android 9.0" />
+        <api value="28" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
