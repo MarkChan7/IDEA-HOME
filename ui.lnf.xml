@@ -8,11 +8,9 @@
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
-    <option name="EDITOR_AA_TYPE" value="Greyscale" />
-    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="showTreeIndentGuides" value="true" />
-    <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
 </application>

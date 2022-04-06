@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="782" />
     <option name="newTranslationDialogY" value="464" />
     <histories>
+      <item value="抢占&#10;" />
+      <item value="qiang'z" />
+      <item value="qian'z" />
+      <item value="slug" />
       <item value="corresponding" />
       <item value="Temporal" />
       <item value="@MappedSuperclass" />
@@ -38,12 +42,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648453071065" />
+    <option name="lastTrimTime" value="1648892605483" />
   </component>
 </application>
