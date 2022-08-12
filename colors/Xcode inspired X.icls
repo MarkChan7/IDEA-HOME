@@ -1,11 +1,15 @@
 <scheme name="Xcode inspired X" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-03-28T15:46:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-28T15:47:00</property>
+    <property name="modified">2022-08-12T18:00:21</property>
     <property name="originalScheme">Xcode inspired X</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_ROW_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
@@ -513,6 +517,9 @@
       <value>
         <option name="FOREGROUND" value="0" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
