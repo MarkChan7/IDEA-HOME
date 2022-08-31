@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="782" />
     <option name="newTranslationDialogY" value="464" />
     <histories>
+      <item value="POISON" />
       <item value="抢占&#10;" />
       <item value="qiang'z" />
       <item value="qian'z" />
@@ -48,6 +49,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648892605483" />
+    <option name="lastTrimTime" value="1661940150230" />
   </component>
 </application>
