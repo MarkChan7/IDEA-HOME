@@ -4,11 +4,10 @@
     <property name="created">2022-03-28T15:46:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-09-20T14:17:09</property>
+    <property name="modified">2022-09-21T12:44:38</property>
     <property name="originalScheme">Xcode inspired X</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_ROW_COLOR" value="ffffff" />
