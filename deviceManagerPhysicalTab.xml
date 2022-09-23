@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="1a7aa61" />
-          </Key>
-        </key>
-        <name value="Xiaomi Mi Note 3" />
-        <target value="Android 9.0" />
-        <api value="28" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="NXEDU19513007805" />
           </Key>
         </key>
         <name value="HUAWEI YAL-L21" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="1a7aa61" />
+          </Key>
+        </key>
+        <name value="Xiaomi Mi Note 3" />
+        <target value="Android 9.0" />
+        <api value="28" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
