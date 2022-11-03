@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="isolate_snapshot_data" type="AUTO_DETECTED" />
       <mapping pattern="TODO" type="AUTO_DETECTED" />
+      <mapping pattern="#jxn=js x native" type="AUTO_DETECTED" />
       <mapping pattern="publishFlutter" type="AUTO_DETECTED" />
       <mapping pattern="build-fn.gradle" type="AUTO_DETECTED" />
       <mapping pattern="VersionManager" type="AUTO_DETECTED" />
