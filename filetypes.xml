@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="#jxn=js x native" type="AUTO_DETECTED" />
+      <mapping pattern="study_video_list_16" type="AUTO_DETECTED" />
       <mapping pattern="VersionManager" type="AUTO_DETECTED" />
       <mapping pattern="X" type="AUTO_DETECTED" />
       <mapping pattern="native-keyword-alias-robot" type="AUTO_DETECTED" />
@@ -12,6 +13,7 @@
       <mapping pattern="picture_image_placeholder_for_flutter_image_pulgin" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="crc" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
