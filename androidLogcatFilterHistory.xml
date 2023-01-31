@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:TaoLi statEvent" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag=:TaoLi statEvent" />
         <option value="tag=:TaoLi statev" />
         <option value="tag=:TaoLi" />
-        <option value="package:mine " />
         <option value="tag=:TaoLi " />
         <option value="TaoLi" />
         <option value="Jpush" />
