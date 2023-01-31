@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag=:TaoLi statEvent" />
+        <option value="package:mine " />
         <option value="tag=:TaoLi " />
         <option value="TaoLi" />
         <option value="Jpush" />
