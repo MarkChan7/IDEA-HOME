@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ActivitySize=" />
+    <option name="mostRecentlyUsed" value="statEvent#" />
     <option name="nonFavorites">
       <list>
+        <option value="statEvent#" />
         <option value="ActivitySize=" />
         <option value="MARK" />
         <option value="view_app_startup" />
