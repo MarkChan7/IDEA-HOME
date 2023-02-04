@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="statEvent#" />
+    <option name="mostRecentlyUsed" value="tag=:TaoLi lce" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:TaoLi lce" />
+        <option value="tag=:TaoLi " />
+        <option value="LCe" />
+        <option value="MVI" />
         <option value="statEvent#" />
         <option value="ActivitySize=" />
         <option value="MARK" />
@@ -15,7 +19,6 @@
         <option value="package:mine " />
         <option value="tag=:TaoLi statEvent#CourseProvider" />
         <option value="tag=:TaoLi statEvent" />
-        <option value="tag=:TaoLi " />
         <option value="tag=:TaoLi" />
       </list>
     </option>
