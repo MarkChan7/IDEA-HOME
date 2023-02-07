@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="click_membership_authority_page_floating_layer_subscribe" />
     <option name="nonFavorites">
       <list>
+        <option value="click_membership_authority_page_floating_layer_subscribe" />
         <option value="level:error " />
         <option value="tag=:TaoLi lce" />
         <option value="tag=:TaoLi " />
