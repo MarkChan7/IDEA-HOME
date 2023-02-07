@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:TaoLi " />
+    <option name="mostRecentlyUsed" value="tag=:TaoLi DubWorkPager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:TaoLi DubWorkPager" />
         <option value="tag=:TaoLi " />
         <option value="click_membership_authority_page_floating_layer_subscribe" />
         <option value="level:error " />
