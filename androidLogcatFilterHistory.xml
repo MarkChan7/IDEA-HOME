@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="tag=:TaoLi " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error package:mine " />
         <option value="tag=:TaoLi " />
         <option value="level:error " />
         <option value="view_app_startup" />
@@ -22,7 +23,6 @@
         <option value="tag=:TaoLi statEvent#" />
         <option value="package:mine " />
         <option value="tag=:TaoLi statEvent#CourseProvider" />
-        <option value="tag=:TaoLi statEvent" />
       </list>
     </option>
   </component>
