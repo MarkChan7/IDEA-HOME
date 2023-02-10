@@ -3,9 +3,9 @@
     <option name="mostRecentlyUsed" value="tag=:TaoLi " />
     <option name="nonFavorites">
       <list>
-        <option value="level:error package:mine " />
         <option value="tag=:TaoLi " />
         <option value="level:error " />
+        <option value="level:error package:mine " />
         <option value="view_app_startup" />
         <option value="Um_event_startup_splash_visit" />
         <option value="tag=:TaoLi DubWorkPager" />
