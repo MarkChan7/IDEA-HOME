@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error l" />
+    <option name="mostRecentlyUsed" value="tag=:TaoLi " />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:TaoLi " />
         <option value="level:error l" />
         <option value="tag=:TaoLi listJson" />
-        <option value="tag=:TaoLi " />
         <option value="tag=:TaoLi SwitchPagerIndex" />
         <option value="tag=:TaoLi MARK" />
         <option value="level:error " />
