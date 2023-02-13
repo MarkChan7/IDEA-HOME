@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="mvi" />
     <option name="nonFavorites">
       <list>
+        <option value="mvi" />
         <option value="level:error " />
         <option value="State=" />
         <option value="Lexi" />
-        <option value="mvi" />
         <option value="statEvent" />
         <option value="tag=:TaoLi " />
         <option value="level:error l" />
