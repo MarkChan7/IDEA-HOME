@@ -1,28 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mvi" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="mvi" />
-        <option value="level:error " />
-        <option value="State=" />
-        <option value="Lexi" />
-        <option value="statEvent" />
-        <option value="tag=:TaoLi " />
-        <option value="level:error l" />
-        <option value="tag=:TaoLi listJson" />
-        <option value="tag=:TaoLi SwitchPagerIndex" />
-        <option value="tag=:TaoLi MARK" />
-        <option value="level:error package:mine " />
-        <option value="view_app_startup" />
-        <option value="Um_event_startup_splash_visit" />
-        <option value="tag=:TaoLi DubWorkPager" />
-        <option value="click_membership_authority_page_floating_layer_subscribe" />
-        <option value="tag=:TaoLi lce" />
-        <option value="LCe" />
-        <option value="MVI" />
-        <option value="statEvent#" />
-        <option value="ActivitySize=" />
+        <option value="package:mine " />
       </list>
     </option>
   </component>
