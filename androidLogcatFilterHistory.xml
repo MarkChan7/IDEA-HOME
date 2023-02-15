@@ -4,11 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="tag=:TaoLi " />
+        <option value="okhttp" />
+        <option value="package:mine " />
+        <option value="package:mine tag=:TaoLi " />
         <option value="MobTech" />
         <option value="package:mine" />
         <option value="package:mine mvi" />
-        <option value="package:mine " />
-        <option value="package:mine tag=:TaoLi " />
       </list>
     </option>
   </component>
