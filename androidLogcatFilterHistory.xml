@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine mvi" />
+    <option name="mostRecentlyUsed" value="MobTech" />
     <option name="nonFavorites">
       <list>
+        <option value="MobTech" />
+        <option value="package:mine" />
         <option value="package:mine mvi" />
         <option value="package:mine " />
         <option value="package:mine tag=:TaoLi " />
