@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:TaoLi prefetc" />
+    <option name="mostRecentlyUsed" value="package:mine prefetch" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine prefetch" />
         <option value="tag=:TaoLi prefetc" />
         <option value="tag=:TaoLi " />
         <option value="level:error " />
