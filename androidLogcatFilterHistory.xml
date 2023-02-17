@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine tag=:TaoLi lexi" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:TaoLi lexi" />
+        <option value="package:mine tag=:TaoLi " />
+        <option value="package:mine Lexi" />
         <option value="package:mine level:error " />
         <option value="package:mine tag=:TaoLi onRecording" />
         <option value="package:mine tag=:TaoLi Lexi" />
-        <option value="package:mine tag=:TaoLi " />
         <option value="package:mine prefetch" />
         <option value="tag=:TaoLi prefetc" />
         <option value="tag=:TaoLi " />
