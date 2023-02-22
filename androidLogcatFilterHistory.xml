@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag=:TaoLi " />
+        <option value="package:mine tag=:TaoLi renderContentS" />
         <option value="package:mine lexi" />
         <option value="package:mine tag=:TaoLi 22" />
         <option value="package:mine tag=:TaoLi 21" />
@@ -22,7 +23,6 @@
         <option value="tag=:TaoLi " />
         <option value="level:error " />
         <option value="okhttp" />
-        <option value="MobTech" />
       </list>
     </option>
   </component>
