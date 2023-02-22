@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag=:TaoLi 22" />
+    <option name="mostRecentlyUsed" value="package:mine lexi" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine lexi" />
         <option value="package:mine tag=:TaoLi 22" />
         <option value="package:mine tag=:TaoLi 21" />
         <option value="package:mine tag=:TaoLi render" />
@@ -10,7 +11,6 @@
         <option value="package:mine tag=:TaoLi Lexi" />
         <option value="package:mine tag=:TaoLi " />
         <option value="package:mine level:error " />
-        <option value="package:mine lexi" />
         <option value="package:mine " />
         <option value="package:mine Lexi" />
         <option value="package:mine jxn" />
