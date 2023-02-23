@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error | tag=:TaoLi shareUrl" />
+    <option name="mostRecentlyUsed" value="package:mine tag=:TaoLi " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:error | tag=:TaoLi shareUrl" />
+        <option value="package:mine tag=:TaoLi " />
         <option value="package:mine level:error | tag=:TaoLi " />
+        <option value="package:mine level:error | tag=:TaoLi shareUrl" />
         <option value="package:mine level:error | ta" />
         <option value="package:mine level:error " />
         <option value="package:mine tag=:TaoLi" />
         <option value="package:mine tag=:TaoLi url=" />
-        <option value="package:mine tag=:TaoLi " />
         <option value="package:mine " />
         <option value="package:mine okhttp" />
         <option value="package:mine tag=:TaoLi | level:error" />
