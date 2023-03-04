@@ -1,4 +1,4 @@
-<keymap version="1" name="macOS-Mark" parent="Mac OS X 10.5+">
+<keymap version="1" name="macOS (Mark-Git)" parent="Mac OS X 10.5+">
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -28,7 +28,7 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="alt v" />
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt f" />
