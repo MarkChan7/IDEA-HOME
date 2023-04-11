@@ -28,7 +28,7 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt f" />
