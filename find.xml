@@ -9,7 +9,7 @@
     <mask>*.properties</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.dart</mask>
+    <mask>*.java</mask>
   </component>
 </application>
