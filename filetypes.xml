@@ -7,6 +7,7 @@
       <mapping pattern="native-keyword-alias-robot" type="AUTO_DETECTED" />
       <mapping pattern="isolate_snapshot_data" type="AUTO_DETECTED" />
       <mapping pattern="TODO" type="AUTO_DETECTED" />
+      <mapping pattern="+8613539473123" type="AUTO_DETECTED" />
       <mapping pattern="publishFlutter" type="AUTO_DETECTED" />
       <mapping pattern="build-fn.gradle" type="AUTO_DETECTED" />
       <mapping pattern="picture_image_placeholder_for_flutter_image_pulgin" type="AUTO_DETECTED" />
