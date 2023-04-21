@@ -4,6 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag=:TaoLi " />
+        <option value="package:mine " />
+        <option value="tag=:TaoLi " />
+        <option value=" homeViewModel" />
+        <option value="level:error " />
         <option value="package:mine effect" />
         <option value="package:mine Lexi" />
         <option value="package:mine MobTe" />
@@ -18,11 +22,7 @@
         <option value="package:mine level:error | ta" />
         <option value="package:mine tag=:TaoLi" />
         <option value="package:mine tag=:TaoLi url=" />
-        <option value="package:mine " />
         <option value="package:mine okhttp" />
-        <option value="package:mine tag=:TaoLi | level:error" />
-        <option value="package:mine tag=:TaoLi renderContentS" />
-        <option value="package:mine lexi" />
       </list>
     </option>
   </component>
