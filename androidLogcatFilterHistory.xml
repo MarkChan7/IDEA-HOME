@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine tag=:TaoLi " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:TaoLi " />
+        <option value="package:mine " />
+        <option value="tag=:TaoLi " />
+        <option value=" homeViewModel" />
+        <option value="level:error " />
+        <option value="package:mine effect" />
+        <option value="package:mine Lexi" />
+        <option value="package:mine MobTe" />
         <option value="package:mine level:error " />
         <option value="package:mine level:error | tag:TaoLi " />
         <option value="package:mine tag:TaoLi | level:error " />
         <option value="package:mine tag:TaoLi AddVisibleDurationToast" />
         <option value="package:mine tag:TaoLi " />
         <option value="package:mine tag=:TaoLi renderContent" />
-        <option value="package:mine tag=:TaoLi " />
         <option value="package:mine level:error | tag=:TaoLi " />
         <option value="package:mine level:error | tag=:TaoLi shareUrl" />
         <option value="package:mine level:error | ta" />
         <option value="package:mine tag=:TaoLi" />
         <option value="package:mine tag=:TaoLi url=" />
-        <option value="package:mine " />
         <option value="package:mine okhttp" />
-        <option value="package:mine tag=:TaoLi | level:error" />
-        <option value="package:mine tag=:TaoLi renderContentS" />
-        <option value="package:mine lexi" />
-        <option value="package:mine tag=:TaoLi 22" />
-        <option value="package:mine tag=:TaoLi 21" />
-        <option value="package:mine tag=:TaoLi render" />
       </list>
     </option>
   </component>
