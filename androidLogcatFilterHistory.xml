@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="tag=:TaoLi " />
         <option value="level:error " />
         <option value="tag=:TaoLi  " />
         <option value="tag=:TaoLi  PracticeEvent$" />
@@ -10,8 +11,6 @@
         <option value="tag:TaoLi " />
         <option value=" level:error " />
         <option value="package:com.taoliweilai.taoli.test level:error " />
-        <option value="tag=:TaoLi " />
-        <option value="package:mine " />
         <option value="package:mine tag=:TaoLi MVI" />
         <option value="package:mine tag=:TaoLi " />
         <option value="package:mine tag=:TaoLi com.songshuedu.taoliapp.home." />
