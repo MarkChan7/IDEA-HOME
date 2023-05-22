@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag=:TaoLi" />
+    <option name="mostRecentlyUsed" value="router#" />
     <option name="nonFavorites">
       <list>
+        <option value="router#" />
         <option value="package:mine tag=:TaoLi" />
         <option value="package:mine Router#" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag=:TaoLi com.songshuedu.taoliapp.home." />
         <option value="package:mine tag=:TaoLi MVI &gt; " />
         <option value="package:mine tag=:TaoLi lexi" />
-        <option value="package:mine tag=:TaoLi ignore" />
       </list>
     </option>
   </component>
