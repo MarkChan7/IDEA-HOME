@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag=:TaoLi " />
+    <option name="mostRecentlyUsed" value="tag:" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag=:TaoLi " />
+        <option value="tag:" />
+        <option value="package:mine " />
+        <option value="tag=:TaoLi" />
+        <option value="package:mine tag=:TaoLi" />
+        <option value="router#" />
+        <option value="package:mine Router#" />
         <option value="package:mine level:error " />
         <option value="tag=:TaoLi " />
-        <option value="package:mine " />
+        <option value="package:mine l" />
+        <option value="package:mine level:error  " />
+        <option value="package:mine tag=:TaoLi " />
+        <option value="level:error " />
+        <option value="tag=:TaoLi  " />
+        <option value="tag=:TaoLi  PracticeEvent$" />
+        <option value="tag=:TaoLi  PracticeEvent$OptionSubmit" />
+        <option value="tag:TaoLi " />
+        <option value=" level:error " />
+        <option value="package:com.taoliweilai.taoli.test level:error " />
         <option value="package:mine tag=:TaoLi MVI" />
         <option value="package:mine tag=:TaoLi com.songshuedu.taoliapp.home." />
-        <option value="package:mine tag=:TaoLi MVI &gt; " />
-        <option value="package:mine tag=:TaoLi" />
-        <option value="package:mine tag=:TaoLi lexi" />
-        <option value="package:mine tag=:TaoLi ignore" />
-        <option value="package:mine tag=:TaoLi Lexi" />
-        <option value=" homeViewModel" />
-        <option value="level:error " />
-        <option value="package:mine effect" />
-        <option value="package:mine Lexi" />
-        <option value="package:mine MobTe" />
-        <option value="package:mine level:error | tag:TaoLi " />
-        <option value="package:mine tag:TaoLi | level:error " />
-        <option value="package:mine tag:TaoLi AddVisibleDurationToast" />
-        <option value="package:mine tag:TaoLi " />
       </list>
     </option>
   </component>
