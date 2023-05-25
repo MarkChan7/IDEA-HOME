@@ -5,6 +5,7 @@
       <w>constraintlayout</w>
       <w>coursecolumn</w>
       <w>dispatchable</w>
+      <w>inapp</w>
       <w>ktlint</w>
       <w>rcmd</w>
       <w>revisible</w>
