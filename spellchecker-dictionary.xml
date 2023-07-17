@@ -5,6 +5,7 @@
       <w>constraintlayout</w>
       <w>coursecolumn</w>
       <w>dispatchable</w>
+      <w>inapp</w>
       <w>ktlint</w>
       <w>mmkv</w>
       <w>rcmd</w>
@@ -12,6 +13,7 @@
       <w>songshuedu</w>
       <w>taoli</w>
       <w>taoliapp</w>
+      <w>umeng</w>
       <w>vcode</w>
     </words>
   </component>
