@@ -18,7 +18,6 @@
   </component>
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
-    <option name="compactTreeIndents" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="916" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="showTreeIndentGuides" value="true" />
